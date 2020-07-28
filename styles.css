@@ -1,0 +1,68 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: cyan;
+}
+section{
+    width: 93%;
+    margin: auto;
+}
+h3{
+    color: #F0005A;
+    font-family: 'Poppins',sans-serif;
+    font-weight: 600;
+    text-align: center;
+    font-size: 40px;
+    margin: 0;
+    letter-spacing: 0.5px;
+}
+h5{
+    background-color: #1c1c1c;
+    font-family: 'Poppins',sans-serif;
+    font-weight: 600;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    letter-spacing: 2px;
+    margin: 0;
+}
+p{
+    font-size: 18px;
+    line-height: 37px;
+    letter-spacing: 0.7px;
+    text-align: justify;
+    color: #2c2c2c;
+    font-family: 'Poppins',sans-serif;
+    font-weight: 400;
+}
+#progress{
+    background-color:#F0005A;
+    width: 0;
+    height: 12px;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+/* YT Link Styling */
+footer{
+    background-color: #F0005A;
+    padding: 45px 0;
+}
+footer a{
+    display: block;
+    width: 90%;
+    min-width: 320px;
+    margin: auto;
+    left: 0;
+    right: 0;
+    text-align: center;
+    background-color: #ffffff;
+    font-size: 22px;
+    font-family: 'Poppins',sans-serif;
+    font-weight: 600;
+    padding: 12px 0;
+    text-decoration: none;
+    color: #F0005A;
+    border-radius: 3px;
+}
